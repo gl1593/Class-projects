@@ -3,6 +3,8 @@
 //
 // Michael Margolis 4 August 2011
 
+// VarSpeedServo from https://github.com/netlabtoolkit/VarSpeedServo
+
 #include <VarSpeedServo.h>
 
 const int NBR_SERVOS = 3;       // the number of servos
